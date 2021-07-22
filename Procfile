@@ -1,0 +1,1 @@
+web: gunicorn aksh.wsgi --log-file -
